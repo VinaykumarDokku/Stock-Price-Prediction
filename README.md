@@ -24,8 +24,7 @@ pip install -r requirements.txt
 jupyter notebook stock_price_prediction.ipynb
 
 ## Run Notebook in Google Colab
-[Open in Colab](https://colab.research.google.com/drive/1vxT42UweHOPaQ2f-oQQb9yEfYv8yzTd6)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vxT42UweHOPaQ2f-oQQb9yEfYv8yzTd6)
 
 ### Notes
 
