@@ -1,0 +1,8 @@
+# Requirements for Stock Market Forecasting Project
+yfinance
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow
+jupyter

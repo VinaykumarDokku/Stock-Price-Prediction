@@ -1,0 +1,21 @@
+# Python / Jupyter
+venv/
+.env
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Data / big files
+data/
+*.csv
+*.h5
+*.pkl
+*.pbix
+
+# Notebook outputs
+reports/
