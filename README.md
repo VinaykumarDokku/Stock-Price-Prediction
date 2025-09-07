@@ -9,25 +9,9 @@ A small educational project that trains a simple Recurrent Neural Network (RNN) 
 - Model: `SimpleRNN(64) -> Dense(1)` (Keras/TensorFlow)
 - Output: plots comparing true vs predicted prices
 
-## How to run (locally)
-1. Create & activate virtual environment:
-   ```powershell
-   python -m venv venv
-   .\venv\Scripts\Activate.ps1
-
-2. Install dependencies:
-
-pip install -r requirements.txt
-
-3. Run notebook:
+## Run notebook:
 
 jupyter notebook stock_price_prediction.ipynb
 
 ## Run Notebook in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vxT42UweHOPaQ2f-oQQb9yEfYv8yzTd6)
-
-### Notes
-
-This is an educational demo, not financial advice.
-
-If you have GPU/large TF requirements, install a suitable TensorFlow build.
