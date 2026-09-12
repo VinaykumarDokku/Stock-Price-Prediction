@@ -15,3 +15,5 @@ jupyter notebook stock_price_prediction.ipynb
 
 ## Run Notebook in Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vxT42UweHOPaQ2f-oQQb9yEfYv8yzTd6)
+
+#run in local
