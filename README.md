@@ -40,3 +40,12 @@ using Recurrent Neural Networks (RNN).
 Vinay Kumar Dokku
 
 GitHub: https://github.com/VinaykumarDokku
+
+## Project Highlights
+
+- Stock price prediction using recurrent neural networks (RNN)
+- Historical Apple (AAPL) stock price analysis
+- Data preprocessing with Pandas and NumPy
+- Deep learning with TensorFlow and Keras
+- Visualization of actual and predicted stock prices
+
